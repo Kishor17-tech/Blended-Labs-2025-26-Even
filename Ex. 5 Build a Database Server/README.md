@@ -113,5 +113,5 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
-](https://github.com/Ashok-S20/Blended-Labs-2025-26-Even/blob/main/Ex.%204%20Working%20with%20EBS/README.md)
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understand.
+
